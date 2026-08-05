@@ -32,4 +32,6 @@ Module 1: Gig-Work Readiness Audit
 
 Detailed documentation can be found in the Module-1-Gig-Readiness directory.
 
-💻 Tech Stack & Workstation SpecsHardware & SoftwareSpecificationPrimary Device13th Gen Intel(R) Core(TM) i5-1335U (1.30 GHz), 8 GB RAMDesign ToolsFigma, FigJam, Adobe IllustratorPrimary/Backup Network4G Broadband / Mobile HotspotPower BackupLaptop Power Bank / Inverter System
+💻 Tech Stack & Workstation
+
+SpecsHardware & SoftwareSpecificationPrimary Device13th Gen Intel(R) Core(TM) i5-1335U (1.30 GHz), 8 GB RAMDesign ToolsFigma, FigJam, Adobe IllustratorPrimary/Backup Network4G Broadband / Mobile HotspotPower BackupLaptop Power Bank / Inverter System
